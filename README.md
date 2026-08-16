@@ -69,9 +69,8 @@ Potential Improvements
  Add geolocation support ("Use my current location")
 
 License
-
 This project is open source and available under the MIT License.
 
-🙏 Acknowledgments
+Acknowledgments
 Weather data provided by OpenWeatherMap
 Project structure inspired by the Codédex weather app tutorial
