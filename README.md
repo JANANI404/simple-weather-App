@@ -52,7 +52,7 @@ Setup
 
 Clone the repository
 
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/JANANI404/weather-app.git
    
    cd weather-app
    
